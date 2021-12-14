@@ -1,0 +1,40 @@
+{
+  "title" : "MY APP",
+  "MyArray" : [
+
+{
+  "id": 1,
+  "username": "zia",
+  "password": "zia123"
+
+},
+{
+  "id": 2,
+  "username": "usman",
+  "password": "usm123"
+
+},
+{
+  "id": 1,
+  "username": "hassan",
+  "password": "12345"
+
+},
+{
+  "id": 1,
+  "username": "shahid",
+  "password": "sha123"
+
+},
+{
+  "id": 1,
+  "username": "zaman",
+  "password": "zam123"
+
+}
+
+
+
+  ]
+  
+}
